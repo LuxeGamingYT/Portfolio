@@ -33,4 +33,4 @@ Dit project is gebouwd met behulp van deze frameworks.
 
 ## Licentie
 
-Dit project valt onder een [eigen Licentie](https://github.com/LuxeGamingYT/Portfolio/license).
+Dit project valt onder de [MIT-licentie](https://opensource.org/licenses/MIT).
